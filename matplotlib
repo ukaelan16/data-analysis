@@ -1,0 +1,7 @@
+matplotlib is a comprehensive library in python used for creating static interactive and animated visualizations
+1.scripting layer(pyplot)
+2.object-oriented API
+EG.import matplotlib.pyplot as plt
+fig,ax=plt.subplots()
+ax.plot([1,2,3],[4,5,6])
+plt.show()

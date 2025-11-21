@@ -1,0 +1,6 @@
+sql stands for structured query language use for storing manipulating and retrieving relational database
+sql statements are divided into different categories:
+*DDL-Data definition language
+ *DML-Data manipulation language
+  *DCL-Data control language
+  *TCL-Transaction control language

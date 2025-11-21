@@ -1,1 +1,2 @@
 this is my new file
+python is a easier to learn

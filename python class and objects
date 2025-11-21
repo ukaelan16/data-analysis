@@ -1,0 +1,10 @@
+classdad;
+def phone(self);
+print("Dad's phone")
+class son()l
+def laptop(self);
+print(son's laptop")
+ram=son()
+      ram.laptop()
+      ram.phone()
+      
